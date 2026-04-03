@@ -15,13 +15,13 @@ export default function TopicQA() {
   );
 
   const langMap = {
+    html5: "HTML",
+    css3: "CSS",
     javascript: "JS",
     typescript: "TS",
     react: "JSX",
     angular: "TS",
-    nodejs: "Node",
-    html5: "HTML",
-    css3: "CSS",
+    nodejs: "Node"
   };
 
   return (
